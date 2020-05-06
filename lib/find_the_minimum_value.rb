@@ -6,4 +6,5 @@ def find_min_value(array)
       temp_min=i
     end
   }
+  temp_min
 end
